@@ -116,6 +116,19 @@ Beta 2 Release Candidate
 
 ---
 
+# Current Engineering Decisions
+
+The following engineering decisions define the current SA-100 architecture.
+
+- The controller shall use a six-state operating model.
+- Trigger behaviour shall be implemented using Trigger Profiles rather than additional controller states.
+- Beta 2 is a release stabilisation milestone.
+- Reliability has priority over feature expansion.
+- Builder has entered Maintenance Mode.
+- Future platform changes require product justification.
+
+---
+
 # Next Engineering Objectives
 
 1. Begin detailed SA-100 Engineering Review.

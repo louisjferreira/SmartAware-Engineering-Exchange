@@ -22,15 +22,22 @@ Engineering Review
 
 # Current Objectives
 
-1. Review SA-100 Product Documentation
+1. Complete firmware versus documentation review.
 
-2. Review State Machine
+2. Produce a Beta 2 Gap Analysis.
 
-3. Compare Firmware against Product Architecture
+3. Classify every gap as:
 
-4. Complete Beta 2 Gap Analysis
+- Release Blocker
+- Reliability Improvement
+- Installer Improvement
+- Future Release
 
-5. Produce Beta 2 Release Candidate
+4. Resolve Release Blockers.
+
+5. Complete Beta 2 validation.
+
+6. Produce Beta 2 Release Candidate.
 
 ---
 
